@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey There 👋!
+
+- 🔭 I'm a student currently working on websites.
+- ⚡ I can code in many languages (Kotlin, Java, JavaScript, PHP, HTML, NodeJS, Python, C++, and many others), and I'm looking forward to expanding my knowledge!
+- 🌱 I'm currently learning web design princples and how to build perfect UI and UX designs using many tools, such as Figma.
 
 <!--
 **AlyMobarak/AlyMobarak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
