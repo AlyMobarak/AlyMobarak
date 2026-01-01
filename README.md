@@ -26,8 +26,3 @@ I am a Freshman **Engineering** student. I have a background in Full-Stack devel
 | **Web** | React, Next.js, TailwindCSS, JavaScript (ES6+), SQL |
 | **Core/System** | Python (Scripting & RE), C (Harvard's CS50x), Java (Minecraft Plugins) |
 | **Tools** | Git, macOS Terminal, Jadx, Frida, APKTool, GitHub Copilot |
-
----
-
-### 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=AlyMobarak&theme=radical)](https://git.io/streak-stats)
