@@ -1,8 +1,33 @@
-### Hey There 👋!
+### Hey, I'm Aly 👋
 
-- 🔭 I'm a student currently working on expanding my portfolio.
-- ⚡ I can code in many languages (Kotlin, Java, JavaScript, PHP, HTML, NodeJS, Python, C++, Flutter, and many others), and I'm looking forward to expanding my knowledge!
-- 🌱 I have recently learnt web design princples and how to build great UI and UX designs using many tools, such as Figma.
-- 🌱 I have also recently learnt Hypothesis Tests, A/B tests, visualizations, regressions, and more data analysis concepts with Udacity.
-- 👯 I’m looking to collaborate on any type of projects in full-stack website or app creation, software development, data analysis, or even game design.
-- 📫 Shoot me a message at: alymmobarak@hotmail.com; I'm waiting for your message 😉.
+I am a Freshman **Engineering** student. I have a background in Full-Stack development and I'm currently diving deep into Android Internals and Embedded Systems.
+
+- 🔭 **I’m currently working on:**
+  - An Android-based quiz application.
+  - A **VPN-based Web Blocker** for Android using Kotlin `VpnService`.
+  - Dissecting hardware and software.
+
+- 🌱 **I’m currently learning:**
+  - Electronics and System Design.
+  - Advanced Software Reverse Engineering (deobfuscation, APK analysis).
+
+- 💼 **Experience:**
+  - **TEDxBedayia:** Head of Web Design. Built the event system using **Next.js, React, TailwindCSS, & SQL**.
+  - **DECI + Udacity:** Graduated from Levels 3&4 Data Science & AI program.
+  - **Team Leader:** Managing university engineering project teams.
+
+---
+
+### 🛠 Languages & Tools
+
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Mobile** | Kotlin, Android SDK, Gradle |
+| **Web** | React, Next.js, TailwindCSS, JavaScript (ES6+), SQL |
+| **Core/System** | Python (Scripting & RE), C (Harvard's CS50x), Java (Minecraft Plugins) |
+| **Tools** | Git, macOS Terminal, Jadx, Frida, APKTool, GitHub Copilot |
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AlyMobarak&show_icons=true&theme=radical)
