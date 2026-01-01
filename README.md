@@ -30,4 +30,4 @@ I am a Freshman **Engineering** student. I have a background in Full-Stack devel
 ---
 
 ### 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlyMobarak&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AlyMobarak&theme=radical)](https://git.io/streak-stats)
